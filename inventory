@@ -1,0 +1,7 @@
+[all]
+master109 ansible_ssh_host=192.168.1.109 ansible_ssh_user=root
+master110 ansible_ssh_host=192.168.1.110 ansible_ssh_user=root
+master111 ansible_ssh_host=192.168.1.111 ansible_ssh_user=root
+node112 ansible_ssh_host=192.168.1.112 ansible_ssh_user=root
+node113 ansible_ssh_host=192.168.1.113 ansible_ssh_user=root
+node114 ansible_ssh_host=192.168.1.114 ansible_ssh_user=root
